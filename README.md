@@ -15,7 +15,7 @@ Skills: Android / Kotlin / Golang
 ![Profile views](https://gpvc.arturio.dev/hi-manshu)  
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=hi-manshu&column=7"/>
 </a>
 
 ---
