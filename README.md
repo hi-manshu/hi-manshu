@@ -24,7 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-manshu&show_icons=true" alt="hi-manshu" /></p>
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/1Q3dZ87W5qS7dxYAifIwsF)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Himanshu Spotify Playing" width="350" />](https://open.spotify.com/user/31t7jd7f3blxufj3yjmqspqucrcu)
 
 ### Connect with me:
 
