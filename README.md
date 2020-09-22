@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-manshu" alt="hi-manshu" /> </p>
 
-- 🔭 I’m currently work in **Roomi**
+- 🔭 I’m currently working in **Roomi**
 
 - 🌱 I’m currently learning **Golang, React**
 
@@ -23,6 +23,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-manshu&show_icons=true" alt="hi-manshu" /></p>
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/1Q3dZ87W5qS7dxYAifIwsF)
+
+### Connect with me:
+
+<br />
 <p align="center">
 <a href="https://twitter.com/hi_man_shoe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hi_man_shoe" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/himanshoe-singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="himanshoe-singh" height="30" width="30" /></a>
