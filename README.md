@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
-<h3 align="center">A Google Developer Expert from India in Android.</h3>
+<h3 align="center">A Google Developer Expert in Android.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-manshu" alt="hi-manshu" /> </p>
 
