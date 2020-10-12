@@ -3,8 +3,7 @@
 
 Skills: Android / Kotlin / Golang
 
-- 🔭 I’m currently working on Gappein.com 
-- 🌱 I’m currently learning React 
+- 🔭 I’m currently working on [Gappein](https://gappein.com) 
 - 👯 I’m looking to collaborate on Android projects 
 - 💬 Ask me about Android and Kotlin 
 - 📫 How to reach me: hello2himanshusingh@gmail.com 
