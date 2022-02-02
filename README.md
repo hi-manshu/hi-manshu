@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Himanshu Singh
-#### I am a [Google Developer Expert in Android](https://developers.google.com/community/experts/directory/profile/profile-himanshu_singh)
+#### I am a [Google Developer Expert in Android & Kotlin](https://developers.google.com/community/experts/directory/profile/profile-himanshu_singh)
 
 Skills:
 
