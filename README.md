@@ -5,7 +5,7 @@ Skills:
 
 <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='40'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='40'/> <img src='https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white' height='40'/>
 
-- 🔭 I’m currently working on [Gappein](https://gappein.com) 
+- 🔭 I’m currently working on Android/Zee5 
 - 👯 I’m looking to collaborate on Android projects 
 - 💬 Ask me about Android and Kotlin 
 - 📫 How to reach me: hello2himanshusingh@gmail.com 
